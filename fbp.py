@@ -7,7 +7,7 @@ import scipy.io as sio
 import cv2
 import scipy.fft
 import matplotlib.image as image
-
+##test
 def fun(a,b,c):
     return a[b,c]
 if __name__== "__main__" :
